@@ -1,11 +1,11 @@
 [
   {
     "type": "file",
-    "id": "file-block",
-    "title": "React Example File Block",
-    "description": "A basic file block",
-    "entry": "blocks/example-file-block/index.tsx",
+    "id": "folder-block",
+    "title": "Scrim folder viewer",
+    "description": "View all scrims in a folder",
+    "entry": "blocks/scrim-folder-viewer/index.tsx",
     "matches": ["*"],
-    "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
+    "example_path": "https://github.com/scrimba/react-meme-genetator/blob/main/"
   }
 ]
