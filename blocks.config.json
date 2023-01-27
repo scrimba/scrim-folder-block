@@ -1,7 +1,7 @@
 [
   {
-    "type": "file",
-    "id": "folder-block",
+    "type": "folder",
+    "id": "scrim-folder",
     "title": "Scrim folder viewer",
     "description": "View all scrims in a folder",
     "entry": "blocks/scrim-folder-viewer/index.tsx",
